@@ -1,0 +1,30 @@
+:root {
+  --content-static-body-h1-font: Poppins;
+  --content-static-body-h1-weight: Regular;
+  --content-static-display-h1-font: Poppins;
+  --content-static-display-h1-weight: Bold;
+  --content-static-display-h2-font: Poppins;
+  --content-static-display-h2-weight: Bold;
+  --content-static-display-h3-font: Poppins;
+  --content-static-display-h3-weight: Bold;
+  --content-static-headline-h1-font: Poppins;
+  --content-static-headline-h1-weight: SemiBold;
+  --content-static-headline-h2-font: Poppins;
+  --content-static-headline-h2-weight: SemiBold;
+  --content-static-headline-h3-font: Poppins;
+  --content-static-headline-h3-weight: SemiBold;
+  --content-static-label-h1-font: Poppins;
+  --content-static-label-h1-weight: SemiBold;
+  --content-static-label-h2-font: Poppins;
+  --content-static-label-h2-weight: SemiBold;
+  --content-static-label-h3-font: Poppins;
+  --content-static-label-h3-weight: SemiBold;
+  --content-static-title-h1-font: Poppins;
+  --content-static-title-h1-font-2: Poppins;
+  --content-static-title-h1-weight: Medium;
+  --content-static-title-h1-weight-2: SemiBold;
+  --content-static-title-h2-font: Poppins;
+  --content-static-title-h2-weight: Medium;
+  --content-static-title-h3-font: Poppins;
+  --content-static-title-h3-weight: Medium;
+}
